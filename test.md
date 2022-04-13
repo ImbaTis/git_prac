@@ -1,4 +1,4 @@
-## What is this shit?
+## This is a title?
 ---
 
 `Codecademy is great` **continue to learn**
